@@ -9,7 +9,7 @@ include 'partials/header.php';
 
 <div class="container">
     <p>
-        <a class="btn btn-success" href="create.php">Create new Book</a>
+        <a class="btn btn-success" href="create.php">Create new book</a>
     </p>
 
     <table class="table">

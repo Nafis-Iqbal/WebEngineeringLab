@@ -18,7 +18,7 @@ if (!$book) {
 <div class="container">
     <div class="card">
         <div class="card-header">
-            <h3>View User: <b><?php echo $book['title'] ?></b></h3>
+            <h3>View Book Details: <b><?php echo $book['title'] ?></b></h3>
         </div>
         <div class="card-body">
             <a class="btn btn-secondary" href="update.php?title=<?php echo $book['title'] ?>">Update</a>
